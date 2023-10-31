@@ -1,4 +1,4 @@
-# Subjektify Language Server
+# Subjekt Language Server
 
 A [Language Server Protocol](https://microsoft.github.io/language-server-protocol/) implementation for the Subjekt IDL.
 
